@@ -4,4 +4,10 @@
   padding: 0;
   box-sizing: border-box;
   background-color: #1a1a1a;
+  color: white;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
 }

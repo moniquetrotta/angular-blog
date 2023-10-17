@@ -1,0 +1,30 @@
+.container__big-card {
+  /* border: solid 1px red; */
+  border-radius: 5px;
+  width: 450px;
+  height: 500px;
+  margin-left: 20px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.big-card__img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.big-card__img > img {
+  margin-left: 120px;
+}
+.big-card__title > h1 {
+  margin-top: 15px;
+  font-size: 20px;
+  /* border: solid 1px green; */
+}
+.big-card__text > p {
+  margin-top: 10px;
+  color: grey;
+}
