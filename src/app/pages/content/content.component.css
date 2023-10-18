@@ -1,0 +1,11 @@
+.container__content {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid green;
+  align-items: center;
+  margin-top: 10px;
+}
+.content__text > p {
+  color: grey;
+  margin-bottom: 15px;
+}
